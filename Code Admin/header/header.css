@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.text-right{
+    text-align: left;
+    width: 100%;
+    padding: 10px 20px;
+    border: 1px dotted #000000;
+    
+}
+.h2-icon{
+    float: right;
+    line-height: 10px;
+
+}
+
